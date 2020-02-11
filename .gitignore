@@ -1,0 +1,4 @@
+.DS_Store
+logger/
+./test.log
+node_modules/
