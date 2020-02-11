@@ -1,0 +1,24 @@
+{
+  "name": "foxlog",
+  "version": "1.0.0",
+  "description": "A lite logger analyzer",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joachimdorel/FoxLog_Lite.git"
+  },
+  "author": "Joachim Dorel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joachimdorel/FoxLog_Lite/issues"
+  },
+  "homepage": "https://github.com/joachimdorel/FoxLog_Lite#readme"
+}
